@@ -20,6 +20,5 @@ class  Main{
         System.out.println("Amount1" + amount1);
         System.out.println("Amount1" + amount2);
 
-
     }
 }
